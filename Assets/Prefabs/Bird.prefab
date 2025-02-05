@@ -131,6 +131,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   joint: {fileID: 0}
   rb: {fileID: 1829535206030401903}
+  puffEf: {fileID: 460782382662323428, guid: 1a53ec009af2072418b0c5f18faf5525, type: 3}
   maxDistance: 1.75
   maxForce: 1750
   mass: 2
@@ -138,6 +139,7 @@ MonoBehaviour:
   isLaunched: 0
   isReady: 0
   inLauncher: 0
+  timeToLive: 8
 --- !u!58 &865519889841549623
 CircleCollider2D:
   m_ObjectHideFlags: 0

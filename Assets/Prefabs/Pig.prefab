@@ -103,7 +103,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hp: 0
-  maxHp: 50
+  maxHp: 20
   DieEf: {fileID: 1985693516043650342, guid: 60da97ff1e5fd51499c5a17e26e0d290, type: 3}
   StartColor: {r: 0.47450984, g: 0.8313726, b: 0.31764707, a: 1}
   EndColor: {r: 0.6415094, g: 0.34193662, b: 0.4694908, a: 1}

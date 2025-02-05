@@ -7,6 +7,7 @@ public class LaunchBird : MonoBehaviour
 
     [SerializeField] private GameObject joint;
     [SerializeField] private Rigidbody2D rb;
+    [SerializeField] private ParticleSystem puffEf;
 
     [SerializeField] private float maxDistance;
     [SerializeField] private float maxForce;
@@ -16,6 +17,9 @@ public class LaunchBird : MonoBehaviour
     [SerializeField] private bool isLaunched;
     [SerializeField] private bool isReady;
     [SerializeField] private bool inLauncher;
+
+    [SerializeField] private float timeToLive = 5f;
+    private float timer;
 
     private Vector2 mousePosition;
 
@@ -28,6 +32,8 @@ public class LaunchBird : MonoBehaviour
         
         isLaunched = false;
         isTouched = false;
+
+        timer = timeToLive;
     }
 
     // Update is called once per frame
@@ -40,6 +46,16 @@ public class LaunchBird : MonoBehaviour
             GetReady();
 
             Stretch();
+        }
+        else
+        {
+            timer -= Time.deltaTime;
+        }
+
+        if (timer <= 0)
+        {
+            Instantiate(puffEf, transform.position, Quaternion.identity);
+            Destroy(gameObject);
         }
     }
 

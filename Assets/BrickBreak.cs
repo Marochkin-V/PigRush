@@ -27,8 +27,7 @@ public class BrickBreak : MonoBehaviour
     {
         foreach (ContactPoint2D contact in collision.contacts)
         {
-            Debug.Log("Сила столкновения: " + contact.normalImpulse);
-            // TODO: make birdMultiplier
+            //Debug.Log("Сила столкновения: " + contact.normalImpulse);
             float damage = contact.normalImpulse * (contact.collider.gameObject.CompareTag("Bird") ? GlobalValues.BirdHitMultiplier : 1);
             if (damage > 5)
             {

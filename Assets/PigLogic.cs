@@ -30,8 +30,7 @@ public class PigLogic : MonoBehaviour
     {
         foreach (ContactPoint2D contact in collision.contacts)
         {
-            Debug.Log("Сила столкновения: " + contact.normalImpulse);
-            // TODO: make birdMultiplier
+            //Debug.Log("Сила столкновения: " + contact.normalImpulse);
             float damage = contact.normalImpulse * (contact.collider.gameObject.CompareTag("Bird") ? 5 : 1);
             hp -= damage;
 
