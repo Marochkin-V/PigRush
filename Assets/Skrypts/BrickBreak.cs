@@ -20,7 +20,7 @@ public class BrickBreak : MonoBehaviour
 
     private void Update()
     {
-        
+            
     }
 
     void OnCollisionEnter2D(Collision2D collision)
@@ -31,16 +31,8 @@ public class BrickBreak : MonoBehaviour
             float damage = contact.normalImpulse * (contact.collider.gameObject.CompareTag("Bird") ? GlobalValues.BirdHitMultiplier : 1);
             if (damage > 5)
             {
-                durability -= damage;
-                ScoreManager.AddScore(damage);
-
-                if (durability <= 0f)
-                {
-                    Instantiate(BreakEf, transform.position, Quaternion.identity);
-                    Destroy(gameObject);
-                    break;
-                }
-                spriteRenderer.color = Color.Lerp(StartColor, EndColor, 1 - durability / maxDurability);
+                Damage(damage);
+                if(durability < 0f) Destroy(gameObject);
             }
 
         }
@@ -49,5 +41,18 @@ public class BrickBreak : MonoBehaviour
     public float GetDurability()
     {
         return durability;
+    }
+
+    public void Damage(float damage)
+    {
+        durability -= damage;
+        ScoreManager.AddScore(damage);
+
+        if (durability <= 0f)
+        {
+            Instantiate(BreakEf, transform.position, Quaternion.identity);
+            Destroy(gameObject);
+        }
+        spriteRenderer.color = Color.Lerp(StartColor, EndColor, 1 - durability / maxDurability);
     }
 }

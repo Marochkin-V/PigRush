@@ -8,15 +8,11 @@ public class LaunchBird : MonoBehaviour
     [SerializeField] private GameObject joint;
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private ParticleSystem puffEf;
+    [SerializeField] private BirdStates birdState;
 
     [SerializeField] private float maxDistance;
     [SerializeField] private float maxForce;
     [SerializeField] private float mass;
-
-    [SerializeField] private bool isTouched;
-    [SerializeField] private bool isLaunched;
-    [SerializeField] private bool isReady;
-    [SerializeField] private bool inLauncher;
 
     [SerializeField] private float timeToLive = 5f;
     private float timer;
@@ -29,9 +25,7 @@ public class LaunchBird : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         joint = GameObject.Find("Joint");
-        
-        isLaunched = false;
-        isTouched = false;
+        birdState = GetComponent<BirdStates>();
 
         timer = timeToLive;
     }
@@ -39,7 +33,7 @@ public class LaunchBird : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!isLaunched)
+        if (!birdState.isLaunched)
         {
             CheckIfToched();
 
@@ -54,8 +48,7 @@ public class LaunchBird : MonoBehaviour
 
         if (timer <= 0)
         {
-            Instantiate(puffEf, transform.position, Quaternion.identity);
-            Destroy(gameObject);
+            Puf();
         }
     }
 
@@ -68,16 +61,16 @@ public class LaunchBird : MonoBehaviour
 
             if (hit.collider != null && hit.collider.gameObject == gameObject)
             {
-                if (inLauncher)
+                if (birdState.inLauncher)
                 {
                     Debug.Log("I'm Touched!");
-                    isTouched = true;
+                    birdState.isTouched = true;
                 }
                 else
                 {
                     if (!LoadCheck.isLoaded)
                     {
-                        isReady = true;
+                        birdState.isReady = true;
                         LoadCheck.isLoaded = true;
                     }
                 }
@@ -85,11 +78,11 @@ public class LaunchBird : MonoBehaviour
         }
         if (Input.GetMouseButtonUp(0))
         {
-            if (isTouched)
+            if (birdState.isTouched)
             {
                 Fire();
-                isLaunched = true;
-                isTouched = false;
+                birdState.isLaunched = true;
+                birdState.isTouched = false;
                 LoadCheck.isLoaded = false;
             }
         }
@@ -97,17 +90,17 @@ public class LaunchBird : MonoBehaviour
 
     private void GetReady()
     {
-        if (isReady)
+        if (birdState.isReady)
         {
             transform.position = joint.transform.position;
-            isReady = false;
-            inLauncher = true;
+            birdState.isReady = false;
+            birdState.inLauncher = true;
         }
     }
 
     private void Stretch()
     {
-        if (isTouched && inLauncher)
+        if (birdState.isTouched && birdState.inLauncher)
         {
             mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 
@@ -131,6 +124,12 @@ public class LaunchBird : MonoBehaviour
         rb.bodyType = RigidbodyType2D.Dynamic;
         rb.mass = mass;
         rb.AddForce(strangth * direction, ForceMode2D.Force);
+    }
+
+    public void Puf()
+    {
+        Instantiate(puffEf, transform.position, Quaternion.identity);
+        Destroy(gameObject);
     }
 
     //private void OnCollisionEnter2D(Collision2D collision)
