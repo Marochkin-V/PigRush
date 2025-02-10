@@ -1,19 +1,10 @@
 ﻿using UnityEngine;
 
-public class BlueAbility : MonoBehaviour
+public class BlueAbility : BirdAbility
 {
-    [SerializeField] private Rigidbody2D rb;
-    [SerializeField] private BirdStates birdState;
-
     [SerializeField] private float offset = 1f;
     [SerializeField] private bool isAvailable;
     [SerializeField] private float angle = 10f;
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        birdState = GetComponent<BirdStates>();
-    }
 
     // Update is called once per frame
     void Update()
@@ -24,19 +15,18 @@ public class BlueAbility : MonoBehaviour
             birdState.abilityUsed = true;
         }
     }
-    
-    private void Activate()
+
+    protected override void Activate()
     {
-        Debug.Log("Ability activated");
+        base.Activate();
+        //Debug.Log("Ability activated");
         Vector2 offsetVector = Vector2.Perpendicular(rb.linearVelocity.normalized) * offset;
 
         GameObject b1 = Instantiate(gameObject, (Vector2)transform.position + offsetVector, Quaternion.identity);
         b1.GetComponent<Rigidbody2D>().linearVelocity = RotateVector(rb.linearVelocity, angle);
-        b1.GetComponent<BirdStates>().abilityUsed = true;
 
         GameObject b2 = Instantiate(gameObject, (Vector2)transform.position - offsetVector, Quaternion.identity);
         b2.GetComponent<Rigidbody2D>().linearVelocity = RotateVector(rb.linearVelocity, -angle);
-        b2.GetComponent<BirdStates>().abilityUsed = true;
     }
 
     private Vector2 RotateVector(Vector2 vector, float angle)

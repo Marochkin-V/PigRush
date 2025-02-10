@@ -32,13 +32,8 @@ public class BirdTrail : MonoBehaviour
             }
             else
             {
-                timer -= Time.deltaTime;
+                timer -= Time.deltaTime * rb.linearVelocity.magnitude;
             }
         }
-    }
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        birdState.isCrashed = true;
     }
 }

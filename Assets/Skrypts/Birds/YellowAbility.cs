@@ -1,18 +1,10 @@
 using UnityEngine;
 
-public class YellowAbility : MonoBehaviour
+public class YellowAbility : BirdAbility
 {
-    [SerializeField] private Rigidbody2D rb;
-    [SerializeField] private BirdStates birdState;
 
     [SerializeField] private float force;
     [SerializeField] private bool isAvailable;
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        birdState = GetComponent<BirdStates>();
-    }
 
     // Update is called once per frame
     void Update()
@@ -24,9 +16,10 @@ public class YellowAbility : MonoBehaviour
         }
     }
 
-    private void Activate()
+    protected override void Activate()
     {
-        Debug.Log("Ability activated");
+        base.Activate();
+        //Debug.Log("Ability activated");
         Vector3 direction = rb.linearVelocity.normalized;
         rb.AddForce(direction * force);
     }

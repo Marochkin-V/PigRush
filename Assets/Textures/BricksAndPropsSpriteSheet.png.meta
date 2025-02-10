@@ -1,0 +1,5219 @@
+fileFormatVersion: 2
+guid: 73d8d90a8b55da24b919c0ab62024f7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6831020592937197622
+    second: BricksAndPropsSpriteSheet_0
+  - first:
+      213: -3369274094262524238
+    second: BricksAndPropsSpriteSheet_1
+  - first:
+      213: 422001490481935094
+    second: BricksAndPropsSpriteSheet_2
+  - first:
+      213: 2839722946841840131
+    second: BricksAndPropsSpriteSheet_3
+  - first:
+      213: 19035041320055367
+    second: BricksAndPropsSpriteSheet_4
+  - first:
+      213: 3394500837455316630
+    second: BricksAndPropsSpriteSheet_5
+  - first:
+      213: -6616218390782546385
+    second: BricksAndPropsSpriteSheet_6
+  - first:
+      213: 6931096294881935528
+    second: BricksAndPropsSpriteSheet_7
+  - first:
+      213: 7537410972839253034
+    second: BricksAndPropsSpriteSheet_8
+  - first:
+      213: -3083036331613092565
+    second: BricksAndPropsSpriteSheet_9
+  - first:
+      213: 8794813926037958778
+    second: BricksAndPropsSpriteSheet_10
+  - first:
+      213: 6162660106690451946
+    second: BricksAndPropsSpriteSheet_11
+  - first:
+      213: 2317307924978062328
+    second: BricksAndPropsSpriteSheet_12
+  - first:
+      213: 8381406957580169807
+    second: BricksAndPropsSpriteSheet_13
+  - first:
+      213: 3603420099707033447
+    second: BricksAndPropsSpriteSheet_14
+  - first:
+      213: -9212765099245636099
+    second: BricksAndPropsSpriteSheet_15
+  - first:
+      213: -4557673510892001613
+    second: BricksAndPropsSpriteSheet_16
+  - first:
+      213: -5333184035746473638
+    second: BricksAndPropsSpriteSheet_17
+  - first:
+      213: 2137153214932819597
+    second: BricksAndPropsSpriteSheet_18
+  - first:
+      213: 3484298376616237660
+    second: BricksAndPropsSpriteSheet_19
+  - first:
+      213: -5978143002697769392
+    second: BricksAndPropsSpriteSheet_20
+  - first:
+      213: 8595336068262965803
+    second: BricksAndPropsSpriteSheet_21
+  - first:
+      213: 2961051558091218366
+    second: BricksAndPropsSpriteSheet_22
+  - first:
+      213: 1083431305030621218
+    second: BricksAndPropsSpriteSheet_23
+  - first:
+      213: 473889591881162064
+    second: BricksAndPropsSpriteSheet_24
+  - first:
+      213: -3823977735195808929
+    second: BricksAndPropsSpriteSheet_25
+  - first:
+      213: 2917168964664245885
+    second: BricksAndPropsSpriteSheet_26
+  - first:
+      213: 5522249826547187619
+    second: BricksAndPropsSpriteSheet_27
+  - first:
+      213: -348618428779929202
+    second: BricksAndPropsSpriteSheet_28
+  - first:
+      213: 4694821296138576199
+    second: BricksAndPropsSpriteSheet_29
+  - first:
+      213: 5883620428888445170
+    second: BricksAndPropsSpriteSheet_30
+  - first:
+      213: 3730951229779862289
+    second: BricksAndPropsSpriteSheet_31
+  - first:
+      213: -5069480551489239256
+    second: BricksAndPropsSpriteSheet_32
+  - first:
+      213: -5160871514182302866
+    second: BricksAndPropsSpriteSheet_33
+  - first:
+      213: 1594030381331254910
+    second: BricksAndPropsSpriteSheet_34
+  - first:
+      213: -6787290791348927231
+    second: BricksAndPropsSpriteSheet_35
+  - first:
+      213: -8240355961501838320
+    second: BricksAndPropsSpriteSheet_36
+  - first:
+      213: -4746958782346058429
+    second: BricksAndPropsSpriteSheet_37
+  - first:
+      213: -6918820330864752770
+    second: BricksAndPropsSpriteSheet_38
+  - first:
+      213: -4172299776126036263
+    second: BricksAndPropsSpriteSheet_39
+  - first:
+      213: 3586241607046018390
+    second: BricksAndPropsSpriteSheet_40
+  - first:
+      213: -6576582162522415362
+    second: BricksAndPropsSpriteSheet_41
+  - first:
+      213: -1170726747228424565
+    second: BricksAndPropsSpriteSheet_42
+  - first:
+      213: -8624802737512206717
+    second: BricksAndPropsSpriteSheet_43
+  - first:
+      213: -1844745076693793666
+    second: BricksAndPropsSpriteSheet_44
+  - first:
+      213: 1052877171079121781
+    second: BricksAndPropsSpriteSheet_45
+  - first:
+      213: -2555930643920284877
+    second: BricksAndPropsSpriteSheet_46
+  - first:
+      213: -3055190712919408759
+    second: BricksAndPropsSpriteSheet_47
+  - first:
+      213: 113725754733229991
+    second: BricksAndPropsSpriteSheet_48
+  - first:
+      213: 4580240669276030676
+    second: BricksAndPropsSpriteSheet_49
+  - first:
+      213: 3370677028468284701
+    second: BricksAndPropsSpriteSheet_50
+  - first:
+      213: 2643438956104136725
+    second: BricksAndPropsSpriteSheet_51
+  - first:
+      213: 7286962824119759727
+    second: BricksAndPropsSpriteSheet_52
+  - first:
+      213: 3189687780392348271
+    second: BricksAndPropsSpriteSheet_53
+  - first:
+      213: 6291725588097434925
+    second: BricksAndPropsSpriteSheet_54
+  - first:
+      213: 6609485970404528622
+    second: BricksAndPropsSpriteSheet_55
+  - first:
+      213: 1610612079830829962
+    second: BricksAndPropsSpriteSheet_56
+  - first:
+      213: 2295435304997060774
+    second: BricksAndPropsSpriteSheet_57
+  - first:
+      213: 569671920638916744
+    second: BricksAndPropsSpriteSheet_58
+  - first:
+      213: 6465938156535818256
+    second: BricksAndPropsSpriteSheet_59
+  - first:
+      213: 8557381658122862884
+    second: BricksAndPropsSpriteSheet_60
+  - first:
+      213: 4673669263458797345
+    second: BricksAndPropsSpriteSheet_61
+  - first:
+      213: -5508128757917275304
+    second: BricksAndPropsSpriteSheet_62
+  - first:
+      213: -73763908268251309
+    second: BricksAndPropsSpriteSheet_63
+  - first:
+      213: 7804814031246492352
+    second: BricksAndPropsSpriteSheet_64
+  - first:
+      213: -8506644138272817473
+    second: BricksAndPropsSpriteSheet_65
+  - first:
+      213: 4170761669643868769
+    second: BricksAndPropsSpriteSheet_66
+  - first:
+      213: -261467728370740000
+    second: BricksAndPropsSpriteSheet_67
+  - first:
+      213: 708233858282350715
+    second: BricksAndPropsSpriteSheet_68
+  - first:
+      213: 7669105227646050454
+    second: BricksAndPropsSpriteSheet_69
+  - first:
+      213: -155109761342885345
+    second: BricksAndPropsSpriteSheet_70
+  - first:
+      213: -3663957408045182328
+    second: BricksAndPropsSpriteSheet_71
+  - first:
+      213: -8162127855659845109
+    second: BricksAndPropsSpriteSheet_72
+  - first:
+      213: 4811968428093124844
+    second: BricksAndPropsSpriteSheet_73
+  - first:
+      213: 4584139269171992144
+    second: BricksAndPropsSpriteSheet_74
+  - first:
+      213: -3997310960863474275
+    second: BricksAndPropsSpriteSheet_75
+  - first:
+      213: 4485675768814384649
+    second: BricksAndPropsSpriteSheet_76
+  - first:
+      213: 4743936316907845089
+    second: BricksAndPropsSpriteSheet_77
+  - first:
+      213: -2556390042553201098
+    second: BricksAndPropsSpriteSheet_78
+  - first:
+      213: 2797548856531589960
+    second: BricksAndPropsSpriteSheet_79
+  - first:
+      213: 8256893690881091473
+    second: BricksAndPropsSpriteSheet_80
+  - first:
+      213: 9028944110163331902
+    second: BricksAndPropsSpriteSheet_81
+  - first:
+      213: 6055887367454218133
+    second: BricksAndPropsSpriteSheet_82
+  - first:
+      213: -2556464513764202290
+    second: BricksAndPropsSpriteSheet_83
+  - first:
+      213: -4663070155623469170
+    second: BricksAndPropsSpriteSheet_84
+  - first:
+      213: -6621248125050803548
+    second: BricksAndPropsSpriteSheet_85
+  - first:
+      213: 3187084419815349677
+    second: BricksAndPropsSpriteSheet_86
+  - first:
+      213: -6251724608614525886
+    second: BricksAndPropsSpriteSheet_87
+  - first:
+      213: 4609929281777039059
+    second: BricksAndPropsSpriteSheet_88
+  - first:
+      213: -6983519379120715091
+    second: BricksAndPropsSpriteSheet_89
+  - first:
+      213: -19295696899907897
+    second: BricksAndPropsSpriteSheet_90
+  - first:
+      213: 4457582003345885741
+    second: BricksAndPropsSpriteSheet_91
+  - first:
+      213: -7003790560139909850
+    second: BricksAndPropsSpriteSheet_92
+  - first:
+      213: -8477236317978849399
+    second: BricksAndPropsSpriteSheet_93
+  - first:
+      213: 5280140321420363994
+    second: BricksAndPropsSpriteSheet_94
+  - first:
+      213: 6017839456179122525
+    second: BricksAndPropsSpriteSheet_95
+  - first:
+      213: -4554188218513605389
+    second: BricksAndPropsSpriteSheet_96
+  - first:
+      213: -8554350463719212788
+    second: BricksAndPropsSpriteSheet_97
+  - first:
+      213: -8351440635219184417
+    second: BricksAndPropsSpriteSheet_98
+  - first:
+      213: -4734221014256459365
+    second: BricksAndPropsSpriteSheet_99
+  - first:
+      213: 2604453712321880882
+    second: BricksAndPropsSpriteSheet_100
+  - first:
+      213: 5732348850765903424
+    second: BricksAndPropsSpriteSheet_101
+  - first:
+      213: 6757183937532017021
+    second: BricksAndPropsSpriteSheet_102
+  - first:
+      213: -2604203896779712660
+    second: BricksAndPropsSpriteSheet_103
+  - first:
+      213: 2799476031452663536
+    second: BricksAndPropsSpriteSheet_104
+  - first:
+      213: -6888493972030349425
+    second: BricksAndPropsSpriteSheet_105
+  - first:
+      213: -8739730201310401726
+    second: BricksAndPropsSpriteSheet_106
+  - first:
+      213: 2039716129278099776
+    second: BricksAndPropsSpriteSheet_107
+  - first:
+      213: 8269127876316722965
+    second: BricksAndPropsSpriteSheet_108
+  - first:
+      213: -3716163977861739502
+    second: BricksAndPropsSpriteSheet_109
+  - first:
+      213: -3390616657362969215
+    second: BricksAndPropsSpriteSheet_110
+  - first:
+      213: 3730493836065808616
+    second: BricksAndPropsSpriteSheet_111
+  - first:
+      213: 2317706189973835522
+    second: BricksAndPropsSpriteSheet_112
+  - first:
+      213: -650435486632439902
+    second: BricksAndPropsSpriteSheet_113
+  - first:
+      213: -5278373321380852370
+    second: BricksAndPropsSpriteSheet_114
+  - first:
+      213: -7477662553000621012
+    second: BricksAndPropsSpriteSheet_115
+  - first:
+      213: 4099626027454330771
+    second: BricksAndPropsSpriteSheet_116
+  - first:
+      213: 202627894626170802
+    second: BricksAndPropsSpriteSheet_117
+  - first:
+      213: 8506578798923499390
+    second: BricksAndPropsSpriteSheet_118
+  - first:
+      213: -3660184473206997941
+    second: BricksAndPropsSpriteSheet_119
+  - first:
+      213: -6514599611182860840
+    second: BricksAndPropsSpriteSheet_120
+  - first:
+      213: 1266361407287182669
+    second: BricksAndPropsSpriteSheet_121
+  - first:
+      213: 4551465217869990963
+    second: BricksAndPropsSpriteSheet_122
+  - first:
+      213: 7861471663260700939
+    second: BricksAndPropsSpriteSheet_123
+  - first:
+      213: 2358240922971367373
+    second: BricksAndPropsSpriteSheet_124
+  - first:
+      213: 4576811588779248852
+    second: BricksAndPropsSpriteSheet_125
+  - first:
+      213: -3559514968652002921
+    second: BricksAndPropsSpriteSheet_126
+  - first:
+      213: 1876256842401768727
+    second: BricksAndPropsSpriteSheet_127
+  - first:
+      213: 8826531121877618632
+    second: BricksAndPropsSpriteSheet_128
+  - first:
+      213: 4081144626293763489
+    second: BricksAndPropsSpriteSheet_129
+  - first:
+      213: -3980400400668400756
+    second: BricksAndPropsSpriteSheet_130
+  - first:
+      213: 84557211636997989
+    second: BricksAndPropsSpriteSheet_131
+  - first:
+      213: 7431695840733775472
+    second: BricksAndPropsSpriteSheet_132
+  - first:
+      213: -3351940529590879593
+    second: BricksAndPropsSpriteSheet_133
+  - first:
+      213: 3606153030235911188
+    second: BricksAndPropsSpriteSheet_134
+  - first:
+      213: 1156299999300148378
+    second: BricksAndPropsSpriteSheet_135
+  - first:
+      213: 5421462353194781278
+    second: BricksAndPropsSpriteSheet_136
+  - first:
+      213: -7633710699544085328
+    second: BricksAndPropsSpriteSheet_137
+  - first:
+      213: 3705969306990947912
+    second: BricksAndPropsSpriteSheet_138
+  - first:
+      213: 3677274419056809205
+    second: BricksAndPropsSpriteSheet_139
+  - first:
+      213: 7815566202827434095
+    second: BricksAndPropsSpriteSheet_140
+  - first:
+      213: -3653801943728500797
+    second: BricksAndPropsSpriteSheet_141
+  - first:
+      213: 8401288950915127806
+    second: BricksAndPropsSpriteSheet_142
+  - first:
+      213: 7786289620198018812
+    second: BricksAndPropsSpriteSheet_143
+  - first:
+      213: 661974285844625404
+    second: BricksAndPropsSpriteSheet_144
+  - first:
+      213: -6406258278587064698
+    second: BricksAndPropsSpriteSheet_145
+  - first:
+      213: -2936569642661539107
+    second: BricksAndPropsSpriteSheet_146
+  - first:
+      213: -1378852762405779678
+    second: BricksAndPropsSpriteSheet_147
+  - first:
+      213: 5218500033902890378
+    second: BricksAndPropsSpriteSheet_148
+  - first:
+      213: 7320887562272440919
+    second: BricksAndPropsSpriteSheet_149
+  - first:
+      213: 5079576449464193131
+    second: BricksAndPropsSpriteSheet_150
+  - first:
+      213: -4951457702084714083
+    second: BricksAndPropsSpriteSheet_151
+  - first:
+      213: 1023024919656877247
+    second: BricksAndPropsSpriteSheet_152
+  - first:
+      213: 1893798751047703915
+    second: BricksAndPropsSpriteSheet_153
+  - first:
+      213: 6032232464374516721
+    second: BricksAndPropsSpriteSheet_154
+  - first:
+      213: 1532722947674624421
+    second: BricksAndPropsSpriteSheet_155
+  - first:
+      213: -3357597970424076631
+    second: BricksAndPropsSpriteSheet_156
+  - first:
+      213: -1078730077784194552
+    second: BricksAndPropsSpriteSheet_157
+  - first:
+      213: 7639134959132153490
+    second: BricksAndPropsSpriteSheet_158
+  - first:
+      213: 9155414904135548015
+    second: BricksAndPropsSpriteSheet_159
+  - first:
+      213: -1779354480686673823
+    second: BricksAndPropsSpriteSheet_160
+  - first:
+      213: 2779535015142618857
+    second: BricksAndPropsSpriteSheet_161
+  - first:
+      213: -3421175753250479849
+    second: BricksAndPropsSpriteSheet_162
+  - first:
+      213: 4968692760257094438
+    second: BricksAndPropsSpriteSheet_163
+  - first:
+      213: -8201416490776095635
+    second: BricksAndPropsSpriteSheet_164
+  - first:
+      213: 3059608042161313011
+    second: BricksAndPropsSpriteSheet_165
+  - first:
+      213: -4262031169174047489
+    second: BricksAndPropsSpriteSheet_166
+  - first:
+      213: 8113920711500297648
+    second: BricksAndPropsSpriteSheet_167
+  - first:
+      213: -5804913097756977368
+    second: BricksAndPropsSpriteSheet_168
+  - first:
+      213: -7413928805666191301
+    second: BricksAndPropsSpriteSheet_169
+  - first:
+      213: 1768799502265912656
+    second: BricksAndPropsSpriteSheet_170
+  - first:
+      213: 8682018068816434356
+    second: BricksAndPropsSpriteSheet_171
+  - first:
+      213: -402661385423038195
+    second: BricksAndPropsSpriteSheet_172
+  - first:
+      213: -4771954510219279
+    second: BricksAndPropsSpriteSheet_173
+  - first:
+      213: -7472142933266258622
+    second: BricksAndPropsSpriteSheet_174
+  - first:
+      213: -2893271570482541479
+    second: BricksAndPropsSpriteSheet_175
+  - first:
+      213: 6071377239271249223
+    second: BricksAndPropsSpriteSheet_176
+  - first:
+      213: -4698506835649209878
+    second: BricksAndPropsSpriteSheet_177
+  - first:
+      213: 450997328848424477
+    second: BricksAndPropsSpriteSheet_178
+  - first:
+      213: 1480977389843722185
+    second: BricksAndPropsSpriteSheet_179
+  - first:
+      213: -6353680888447466300
+    second: BricksAndPropsSpriteSheet_180
+  - first:
+      213: 2635160931819754527
+    second: BricksAndPropsSpriteSheet_181
+  - first:
+      213: 7474997432123207368
+    second: BricksAndPropsSpriteSheet_182
+  - first:
+      213: 2538268969749313254
+    second: BricksAndPropsSpriteSheet_183
+  - first:
+      213: -4638917501733823803
+    second: BricksAndPropsSpriteSheet_184
+  - first:
+      213: -1456325642245596303
+    second: BricksAndPropsSpriteSheet_185
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 811
+        width: 90
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63066677909acce50800000000000000
+      internalID: 6831020592937197622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 889
+        width: 81
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b66e8cff0fed31d0800000000000000
+      internalID: -3369274094262524238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 889
+        width: 81
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f27cd6ae104bd500800000000000000
+      internalID: 422001490481935094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 919
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a880389f8b86720800000000000000
+      internalID: 2839722946841840131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 925
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742ba2ce440a34000800000000000000
+      internalID: 19035041320055367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 841
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6964a4ed680bb1f20800000000000000
+      internalID: 3394500837455316630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 925
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2eeff48d687e24a0800000000000000
+      internalID: -6616218390782546385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 841
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0c6709b53303060800000000000000
+      internalID: 6931096294881935528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 925
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24173a48534a9860800000000000000
+      internalID: 7537410972839253034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 841
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2504908acad635d0800000000000000
+      internalID: -3083036331613092565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 880
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70b6273ba47d0a70800000000000000
+      internalID: 8794813926037958778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 820
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae951c247ba268550800000000000000
+      internalID: 6162660106690451946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 837
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3d387b74bb82020800000000000000
+      internalID: 2317307924978062328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 898
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42bd88a83db05470800000000000000
+      internalID: 8381406957580169807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 812
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7675a8b2d7be10230800000000000000
+      internalID: 3603420099707033447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 812
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5f85c14fea52080800000000000000
+      internalID: -9212765099245636099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 830
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b62315e614efb0c0800000000000000
+      internalID: -4557673510892001613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 814
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a591c8b3069bcf5b0800000000000000
+      internalID: -5333184035746473638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 814
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e97ae9681b8ad10800000000000000
+      internalID: 2137153214932819597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 815
+        width: 75
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a5ea5b9e6ba5030800000000000000
+      internalID: 3484298376616237660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 819
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e56b3dc9e590da0800000000000000
+      internalID: -5978143002697769392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 819
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22bae13d94c84770800000000000000
+      internalID: 8595336068262965803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 819
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdd4a924b4c71920800000000000000
+      internalID: 2961051558091218366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 819
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22853ea180f190f00800000000000000
+      internalID: 1083431305030621218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 813
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dd4d2b218939600800000000000000
+      internalID: 473889591881162064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 835
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ba6a892808eeac0800000000000000
+      internalID: -3823977735195808929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 728
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e3b90b7bddb7820800000000000000
+      internalID: 2917168964664245885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 644
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afbe4885f8f2ac40800000000000000
+      internalID: 5522249826547187619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 728
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81ea66d265792bf0800000000000000
+      internalID: -348618428779929202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 646
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7416748381b572140800000000000000
+      internalID: 4694821296138576199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 646
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f090297b91d6a150800000000000000
+      internalID: 5883620428888445170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 728
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113e555406007c330800000000000000
+      internalID: 3730951229779862289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 646
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8278bb43c4695a9b0800000000000000
+      internalID: -5069480551489239256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 728
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e634bb983b6e068b0800000000000000
+      internalID: -5160871514182302866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 646
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e0e60bf222f1610800000000000000
+      internalID: 1594030381331254910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 728
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1050e526cf2bec1a0800000000000000
+      internalID: -6787290791348927231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 646
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01419eb89ef54ad80800000000000000
+      internalID: -8240355961501838320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 728
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345a7de432a6f1eb0800000000000000
+      internalID: -4746958782346058429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 646
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e774e0a01996bff90800000000000000
+      internalID: -6918820330864752770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 728
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6d09b95730916c0800000000000000
+      internalID: -4172299776126036263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 646
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65534baadb3e4c130800000000000000
+      internalID: 3586241607046018390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 728
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe5eae0e594bb4a0800000000000000
+      internalID: -6576582162522415362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 648
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86b666e93eb0cfe0800000000000000
+      internalID: -1170726747228424565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 728
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ea4cc3b9b8e4880800000000000000
+      internalID: -8624802737512206717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 650
+        width: 281
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74048a60262666e0800000000000000
+      internalID: -1844745076693793666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 728
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b0a4e65329c9e00800000000000000
+      internalID: 1052877171079121781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 728
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333989a0f92878cd0800000000000000
+      internalID: -2555930643920284877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 728
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fbd53db38c995d0800000000000000
+      internalID: -3055190712919408759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 560
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7ffaca8f8049100800000000000000
+      internalID: 113725754733229991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 569
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6cefd1f98409f30800000000000000
+      internalID: 4580240669276030676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 571
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ddb6616ec07ce20800000000000000
+      internalID: 3370677028468284701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 571
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518340c99b16fa420800000000000000
+      internalID: 2643438956104136725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 571
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63b22f941e702560800000000000000
+      internalID: 7286962824119759727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 571
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6aa0b6f22c044c20800000000000000
+      internalID: 3189687780392348271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 575
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2588ce5613b05750800000000000000
+      internalID: 6291725588097434925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 580
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1d3e5b87c99bb50800000000000000
+      internalID: 6609485970404528622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 580
+        width: 227
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b0549372b0a5610800000000000000
+      internalID: 1610612079830829962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 580
+        width: 164
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a08d378f360bdf10800000000000000
+      internalID: 2295435304997060774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 476
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8887234f791e7e700800000000000000
+      internalID: 569671920638916744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 492
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01826ffce70abb950800000000000000
+      internalID: 6465938156535818256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 507
+        width: 117
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4214bd3774de1c670800000000000000
+      internalID: 8557381658122862884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 507
+        width: 117
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1278f16de653cd040800000000000000
+      internalID: 4673669263458797345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 508
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b2a37f3123f83b0800000000000000
+      internalID: -5508128757917275304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 509
+        width: 97
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3572d62cd10f9fef0800000000000000
+      internalID: -73763908268251309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 509
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c28e6e7205405c60800000000000000
+      internalID: 7804814031246492352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 512
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbef693f93452f980800000000000000
+      internalID: -8506644138272817473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 512
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a10f114a581e930800000000000000
+      internalID: 4170761669643868769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 512
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4db328c741f5cf0800000000000000
+      internalID: -261467728370740000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 512
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78e2d411f624d900800000000000000
+      internalID: 708233858282350715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 512
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6902fe662922e6a60800000000000000
+      internalID: 7669105227646050454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 512
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1236fd6e70f8ddf0800000000000000
+      internalID: -155109761342885345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 392
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8825e4d5622072dc0800000000000000
+      internalID: -3663957408045182328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 415
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0af218c5fb4abe80800000000000000
+      internalID: -8162127855659845109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 450
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0b2ea5acb87c240800000000000000
+      internalID: 4811968428093124844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 454
+        width: 163
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0565ae3a0622e9f30800000000000000
+      internalID: 4584139269171992144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 462
+        width: 82
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d05f81cd2b688c0800000000000000
+      internalID: -3997310960863474275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 463
+        width: 151
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90632c97852504e30800000000000000
+      internalID: 4485675768814384649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 465
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5fd5e12f8d5d140800000000000000
+      internalID: 4743936316907845089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 465
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e4546fcc0e58cd0800000000000000
+      internalID: -2556390042553201098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 465
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b9d5becd3e2d620800000000000000
+      internalID: 2797548856531589960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 392
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197a121a011669270800000000000000
+      internalID: 8256893690881091473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 409
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b042fa4d04d4d70800000000000000
+      internalID: 9028944110163331902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 420
+        width: 193
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59752e8a975da0450800000000000000
+      internalID: 6055887367454218133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 430
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec86138c11d958cd0800000000000000
+      internalID: -2556464513764202290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 338
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f66534662794fb0800000000000000
+      internalID: -4663070155623469170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 366
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa20a049e99c14a0800000000000000
+      internalID: -6621248125050803548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 396
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad9648d46cca3c20800000000000000
+      internalID: 3187084419815349677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 308
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24496fd67996d39a0800000000000000
+      internalID: -6251724608614525886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 338
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6fdffd142c9ff30800000000000000
+      internalID: 4609929281777039059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 323
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa047dff1e851f90800000000000000
+      internalID: -6983519379120715091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 363
+        width: 207
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce56987aa27bbff0800000000000000
+      internalID: -19295696899907897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 341
+        width: 207
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a0b9af6338cdd30800000000000000
+      internalID: 4457582003345885741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 363
+        width: 207
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62560add7998dce90800000000000000
+      internalID: -7003790560139909850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 341
+        width: 207
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f84ddab7eca5a80800000000000000
+      internalID: -8477236317978849399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 363
+        width: 207
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad84a7e95a3d64940800000000000000
+      internalID: 5280140321420363994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 341
+        width: 207
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51f2ecf919a38350800000000000000
+      internalID: 6017839456179122525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 363
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc3a33c1f54cc0c0800000000000000
+      internalID: -4554188218513605389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 341
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0971dd7397d84980800000000000000
+      internalID: -8554350463719212788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 262
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd47ff67df8b91c80800000000000000
+      internalID: -8351440635219184417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 286
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91ed0d021bac4eb0800000000000000
+      internalID: -4734221014256459365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 280
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233a4e43ad0e42420800000000000000
+      internalID: 2604453712321880882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 319
+        width: 207
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046358298e46d8f40800000000000000
+      internalID: 5732348850765903424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 297
+        width: 207
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7932967df656cd50800000000000000
+      internalID: 6757183937532017021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 319
+        width: 207
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67d1c18a520cdbd0800000000000000
+      internalID: -2604203896779712660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 297
+        width: 207
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fec4fb4e9cb9d620800000000000000
+      internalID: 2799476031452663536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 319
+        width: 207
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f16bfaa372760a0800000000000000
+      internalID: -6888493972030349425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 297
+        width: 207
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24be32edfad36b680800000000000000
+      internalID: -8739730201310401726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 319
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041814043078e4c10800000000000000
+      internalID: 2039716129278099776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 297
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5177326edf7d1c270800000000000000
+      internalID: 8269127876316722965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 224
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cc27c1d888d6cc0800000000000000
+      internalID: -3716163977861739502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 241
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d9b584d1c12f0d0800000000000000
+      internalID: -3390616657362969215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 237
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0ac7ff06065c330800000000000000
+      internalID: 3730493836065808616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 275
+        width: 170
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f4d1300852a2020800000000000000
+      internalID: 2317706189973835522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 253
+        width: 170
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af07fdfe5039f6f0800000000000000
+      internalID: -650435486632439902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 275
+        width: 170
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d02332e637fb6b0800000000000000
+      internalID: -5278373321380852370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 275
+        width: 170
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c4822c6810a3890800000000000000
+      internalID: -7477662553000621012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 275
+        width: 170
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3977c56b62cc4e830800000000000000
+      internalID: 4099626027454330771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 186
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b737c02ff0efc200800000000000000
+      internalID: 202627894626170802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 196
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7744bb09507d0670800000000000000
+      internalID: 8506578798923499390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 231
+        width: 170
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cb8163d99643dc0800000000000000
+      internalID: -3660184473206997941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 190
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d53c816b2e7795a0800000000000000
+      internalID: -6514599611182860840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 229
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45cd9e8df4039110800000000000000
+      internalID: 1266361407287182669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 224
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ccfae308d0a2f30800000000000000
+      internalID: 4551465217869990963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 221
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01147c63de891d60800000000000000
+      internalID: 7861471663260700939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 238
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc76f7cff972ab020800000000000000
+      internalID: 2358240922971367373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 142
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc041914e9148f30800000000000000
+      internalID: 4576811588779248852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 194
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799cfc0ceff0a9ec0800000000000000
+      internalID: -3559514968652002921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 209
+        width: 170
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715e0c648adc90a10800000000000000
+      internalID: 1876256842401768727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 155
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf02765a432e7a70800000000000000
+      internalID: 8826531121877618632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 181
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adeb3f2a6323a830800000000000000
+      internalID: 4081144626293763489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 178
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c836656bce6c2c8c0800000000000000
+      internalID: -3980400400668400756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 178
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f12d206586c2100800000000000000
+      internalID: 84557211636997989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 210
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0764fa90effa22760800000000000000
+      internalID: 7431695840733775472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 188
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a308109d38b71d0800000000000000
+      internalID: -3351940529590879593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 210
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414f8e42311ab0230800000000000000
+      internalID: 3606153030235911188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 188
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cd11819b00c0010800000000000000
+      internalID: 1156299999300148378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 154
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a045d3947ec3b40800000000000000
+      internalID: 5421462353194781278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 151
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc739b509c9f0690800000000000000
+      internalID: -7633710699544085328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 187
+        width: 170
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e22bb137f3e6330800000000000000
+      internalID: 3705969306990947912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 165
+        width: 170
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f41381e99d480330800000000000000
+      internalID: 3677274419056809205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 107
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68e3168d08767c60800000000000000
+      internalID: 7815566202827434095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 166
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf4e68ad761b4dc0800000000000000
+      internalID: -3653801943728500797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 110
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9d5b6f9cf579470800000000000000
+      internalID: 8401288950915127806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 111
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfec632f7257e0c60800000000000000
+      internalID: 7786289620198018812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 108
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7363e0b1ecf2900800000000000000
+      internalID: 661974285844625404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 143
+        width: 170
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e996599066817a0800000000000000
+      internalID: -6406258278587064698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 121
+        width: 170
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd296f6f7753f37d0800000000000000
+      internalID: -2936569642661539107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 81
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227cc33d7b45ddce0800000000000000
+      internalID: -1378852762405779678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 136
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d452dc126db6840800000000000000
+      internalID: 5218500033902890378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 138
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75203dd3374099560800000000000000
+      internalID: 7320887562272440919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 136
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60d0c73ed74e7640800000000000000
+      internalID: 5079576449464193131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 130
+        width: 113
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d916ed23473e84bb0800000000000000
+      internalID: -4951457702084714083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 104
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc45848eb3823e00800000000000000
+      internalID: 1023024919656877247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 60
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dd6482eef184a10800000000000000
+      internalID: 1893798751047703915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 99
+        width: 170
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb4f99577bc6b350800000000000000
+      internalID: 6032232464374516721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 114
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a15c337663554510800000000000000
+      internalID: 1532722947674624421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 92
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6ec4a6f6a6761d0800000000000000
+      internalID: -3357597970424076631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 95
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802c429a5b49701f0800000000000000
+      internalID: -1078730077784194552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 93
+        width: 85
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296175e75c8a30a60800000000000000
+      internalID: 7639134959132153490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 48
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cf05c09519e0f70800000000000000
+      internalID: 9155414904135548015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 34
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160db29f6867e47e0800000000000000
+      internalID: -1779354480686673823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 68
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6f552ae54e29620800000000000000
+      internalID: 2779535015142618857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 65
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711635157ca8580d0800000000000000
+      internalID: -3421175753250479849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 77
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623ed2d7db754f440800000000000000
+      internalID: 4968692760257094438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 55
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6492449727be2e80800000000000000
+      internalID: -8201416490776095635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 77
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f414f8cd49e57a20800000000000000
+      internalID: 3059608042161313011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 55
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4fcbb9b393ad4c0800000000000000
+      internalID: -4262031169174047489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 26
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5f8a0d5ef6a9070800000000000000
+      internalID: 8113920711500297648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 7
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827de281b4ec07fa0800000000000000
+      internalID: -5804913097756977368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 62
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b380b3c280f6c1990800000000000000
+      internalID: -7413928805666191301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 52
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d827b96c90c8810800000000000000
+      internalID: 1768799502265912656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 52
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4935d2f69bc7870800000000000000
+      internalID: 8682018068816434356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 52
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09d7157a95796af0800000000000000
+      internalID: -402661385423038195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 74
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7b882ceeb0feff0800000000000000
+      internalID: -4771954510219279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 52
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24528bf579d9d4890800000000000000
+      internalID: -7472142933266258622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 28
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cc6aaf5d809d7d0800000000000000
+      internalID: -2893271570482541479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 33
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745972c7e6dd14450800000000000000
+      internalID: 6071377239271249223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 33
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9526e3dec8bceb0800000000000000
+      internalID: -4698506835649209878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 40
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e09ac5ea3424600800000000000000
+      internalID: 450997328848424477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_179
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 18
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf250ae61d7d8410800000000000000
+      internalID: 1480977389843722185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_180
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 9
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c486eb25e033d7a0800000000000000
+      internalID: -6353680888447466300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_181
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 10
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f149a13e7e8f19420800000000000000
+      internalID: 2635160931819754527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_182
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 13
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce29ae6f868cb760800000000000000
+      internalID: 7474997432123207368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_183
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 30
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6fd4efd2eb93320800000000000000
+      internalID: 2538268969749313254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_184
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 0
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca10d63c114f9fb0800000000000000
+      internalID: -4638917501733823803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_185
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 0
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b98a85b871acbe0800000000000000
+      internalID: -1456325642245596303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_186
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 430
+        width: 85
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f5a305fd1cc8e4c95c7a28821c7ec6
+      internalID: -777011028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_187
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 418
+        width: 153
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8473c302a5b661d42824e2eef4384515
+      internalID: -144205977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_188
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 876
+        width: 12
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f39cb78d10db5498693eeb1c50a7c9
+      internalID: 1553044097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_189
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 876
+        width: 5
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2d952a60f22984f872948d5d4ec99c
+      internalID: 921608610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_190
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 819
+        width: 5
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ff3d0bb482a704f9a0038b53442b8c
+      internalID: 603492173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_191
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 812
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01431af48020f644282ca127238146a7
+      internalID: -158899456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_192
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 452
+        width: 179
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b73075e51f2224ea7362b2e071cade
+      internalID: 1231106129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_193
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 419
+        width: 99
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ffa7a3a77bce841a77558f06c154bb
+      internalID: 307060208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_194
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 828
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0c1141f3637df4ead9149cb468c600
+      internalID: -1514547674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_195
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 886
+        width: 46
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d06735fa8ebc54ca5b2d19815e590e
+      internalID: -791995028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BricksAndPropsSpriteSheet_196
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 887
+        width: 45
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9818e8ff494494fbe6299751559d12
+      internalID: 1761145471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c03bb3566bc15ee4fb0718b7e7ea06cc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BricksAndPropsSpriteSheet_0: 6831020592937197622
+      BricksAndPropsSpriteSheet_1: -3369274094262524238
+      BricksAndPropsSpriteSheet_10: 8794813926037958778
+      BricksAndPropsSpriteSheet_100: 2604453712321880882
+      BricksAndPropsSpriteSheet_101: 5732348850765903424
+      BricksAndPropsSpriteSheet_102: 6757183937532017021
+      BricksAndPropsSpriteSheet_103: -2604203896779712660
+      BricksAndPropsSpriteSheet_104: 2799476031452663536
+      BricksAndPropsSpriteSheet_105: -6888493972030349425
+      BricksAndPropsSpriteSheet_106: -8739730201310401726
+      BricksAndPropsSpriteSheet_107: 2039716129278099776
+      BricksAndPropsSpriteSheet_108: 8269127876316722965
+      BricksAndPropsSpriteSheet_109: -3716163977861739502
+      BricksAndPropsSpriteSheet_11: 6162660106690451946
+      BricksAndPropsSpriteSheet_110: -3390616657362969215
+      BricksAndPropsSpriteSheet_111: 3730493836065808616
+      BricksAndPropsSpriteSheet_112: 2317706189973835522
+      BricksAndPropsSpriteSheet_113: -650435486632439902
+      BricksAndPropsSpriteSheet_114: -5278373321380852370
+      BricksAndPropsSpriteSheet_115: -7477662553000621012
+      BricksAndPropsSpriteSheet_116: 4099626027454330771
+      BricksAndPropsSpriteSheet_117: 202627894626170802
+      BricksAndPropsSpriteSheet_118: 8506578798923499390
+      BricksAndPropsSpriteSheet_119: -3660184473206997941
+      BricksAndPropsSpriteSheet_12: 2317307924978062328
+      BricksAndPropsSpriteSheet_120: -6514599611182860840
+      BricksAndPropsSpriteSheet_121: 1266361407287182669
+      BricksAndPropsSpriteSheet_122: 4551465217869990963
+      BricksAndPropsSpriteSheet_123: 7861471663260700939
+      BricksAndPropsSpriteSheet_124: 2358240922971367373
+      BricksAndPropsSpriteSheet_125: 4576811588779248852
+      BricksAndPropsSpriteSheet_126: -3559514968652002921
+      BricksAndPropsSpriteSheet_127: 1876256842401768727
+      BricksAndPropsSpriteSheet_128: 8826531121877618632
+      BricksAndPropsSpriteSheet_129: 4081144626293763489
+      BricksAndPropsSpriteSheet_13: 8381406957580169807
+      BricksAndPropsSpriteSheet_130: -3980400400668400756
+      BricksAndPropsSpriteSheet_131: 84557211636997989
+      BricksAndPropsSpriteSheet_132: 7431695840733775472
+      BricksAndPropsSpriteSheet_133: -3351940529590879593
+      BricksAndPropsSpriteSheet_134: 3606153030235911188
+      BricksAndPropsSpriteSheet_135: 1156299999300148378
+      BricksAndPropsSpriteSheet_136: 5421462353194781278
+      BricksAndPropsSpriteSheet_137: -7633710699544085328
+      BricksAndPropsSpriteSheet_138: 3705969306990947912
+      BricksAndPropsSpriteSheet_139: 3677274419056809205
+      BricksAndPropsSpriteSheet_14: 3603420099707033447
+      BricksAndPropsSpriteSheet_140: 7815566202827434095
+      BricksAndPropsSpriteSheet_141: -3653801943728500797
+      BricksAndPropsSpriteSheet_142: 8401288950915127806
+      BricksAndPropsSpriteSheet_143: 7786289620198018812
+      BricksAndPropsSpriteSheet_144: 661974285844625404
+      BricksAndPropsSpriteSheet_145: -6406258278587064698
+      BricksAndPropsSpriteSheet_146: -2936569642661539107
+      BricksAndPropsSpriteSheet_147: -1378852762405779678
+      BricksAndPropsSpriteSheet_148: 5218500033902890378
+      BricksAndPropsSpriteSheet_149: 7320887562272440919
+      BricksAndPropsSpriteSheet_15: -9212765099245636099
+      BricksAndPropsSpriteSheet_150: 5079576449464193131
+      BricksAndPropsSpriteSheet_151: -4951457702084714083
+      BricksAndPropsSpriteSheet_152: 1023024919656877247
+      BricksAndPropsSpriteSheet_153: 1893798751047703915
+      BricksAndPropsSpriteSheet_154: 6032232464374516721
+      BricksAndPropsSpriteSheet_155: 1532722947674624421
+      BricksAndPropsSpriteSheet_156: -3357597970424076631
+      BricksAndPropsSpriteSheet_157: -1078730077784194552
+      BricksAndPropsSpriteSheet_158: 7639134959132153490
+      BricksAndPropsSpriteSheet_159: 9155414904135548015
+      BricksAndPropsSpriteSheet_16: -4557673510892001613
+      BricksAndPropsSpriteSheet_160: -1779354480686673823
+      BricksAndPropsSpriteSheet_161: 2779535015142618857
+      BricksAndPropsSpriteSheet_162: -3421175753250479849
+      BricksAndPropsSpriteSheet_163: 4968692760257094438
+      BricksAndPropsSpriteSheet_164: -8201416490776095635
+      BricksAndPropsSpriteSheet_165: 3059608042161313011
+      BricksAndPropsSpriteSheet_166: -4262031169174047489
+      BricksAndPropsSpriteSheet_167: 8113920711500297648
+      BricksAndPropsSpriteSheet_168: -5804913097756977368
+      BricksAndPropsSpriteSheet_169: -7413928805666191301
+      BricksAndPropsSpriteSheet_17: -5333184035746473638
+      BricksAndPropsSpriteSheet_170: 1768799502265912656
+      BricksAndPropsSpriteSheet_171: 8682018068816434356
+      BricksAndPropsSpriteSheet_172: -402661385423038195
+      BricksAndPropsSpriteSheet_173: -4771954510219279
+      BricksAndPropsSpriteSheet_174: -7472142933266258622
+      BricksAndPropsSpriteSheet_175: -2893271570482541479
+      BricksAndPropsSpriteSheet_176: 6071377239271249223
+      BricksAndPropsSpriteSheet_177: -4698506835649209878
+      BricksAndPropsSpriteSheet_178: 450997328848424477
+      BricksAndPropsSpriteSheet_179: 1480977389843722185
+      BricksAndPropsSpriteSheet_18: 2137153214932819597
+      BricksAndPropsSpriteSheet_180: -6353680888447466300
+      BricksAndPropsSpriteSheet_181: 2635160931819754527
+      BricksAndPropsSpriteSheet_182: 7474997432123207368
+      BricksAndPropsSpriteSheet_183: 2538268969749313254
+      BricksAndPropsSpriteSheet_184: -4638917501733823803
+      BricksAndPropsSpriteSheet_185: -1456325642245596303
+      BricksAndPropsSpriteSheet_186: -777011028
+      BricksAndPropsSpriteSheet_187: -144205977
+      BricksAndPropsSpriteSheet_188: 1553044097
+      BricksAndPropsSpriteSheet_189: 921608610
+      BricksAndPropsSpriteSheet_19: 3484298376616237660
+      BricksAndPropsSpriteSheet_190: 603492173
+      BricksAndPropsSpriteSheet_191: -158899456
+      BricksAndPropsSpriteSheet_192: 1231106129
+      BricksAndPropsSpriteSheet_193: 307060208
+      BricksAndPropsSpriteSheet_194: -1514547674
+      BricksAndPropsSpriteSheet_195: -791995028
+      BricksAndPropsSpriteSheet_196: 1761145471
+      BricksAndPropsSpriteSheet_2: 422001490481935094
+      BricksAndPropsSpriteSheet_20: -5978143002697769392
+      BricksAndPropsSpriteSheet_21: 8595336068262965803
+      BricksAndPropsSpriteSheet_22: 2961051558091218366
+      BricksAndPropsSpriteSheet_23: 1083431305030621218
+      BricksAndPropsSpriteSheet_24: 473889591881162064
+      BricksAndPropsSpriteSheet_25: -3823977735195808929
+      BricksAndPropsSpriteSheet_26: 2917168964664245885
+      BricksAndPropsSpriteSheet_27: 5522249826547187619
+      BricksAndPropsSpriteSheet_28: -348618428779929202
+      BricksAndPropsSpriteSheet_29: 4694821296138576199
+      BricksAndPropsSpriteSheet_3: 2839722946841840131
+      BricksAndPropsSpriteSheet_30: 5883620428888445170
+      BricksAndPropsSpriteSheet_31: 3730951229779862289
+      BricksAndPropsSpriteSheet_32: -5069480551489239256
+      BricksAndPropsSpriteSheet_33: -5160871514182302866
+      BricksAndPropsSpriteSheet_34: 1594030381331254910
+      BricksAndPropsSpriteSheet_35: -6787290791348927231
+      BricksAndPropsSpriteSheet_36: -8240355961501838320
+      BricksAndPropsSpriteSheet_37: -4746958782346058429
+      BricksAndPropsSpriteSheet_38: -6918820330864752770
+      BricksAndPropsSpriteSheet_39: -4172299776126036263
+      BricksAndPropsSpriteSheet_4: 19035041320055367
+      BricksAndPropsSpriteSheet_40: 3586241607046018390
+      BricksAndPropsSpriteSheet_41: -6576582162522415362
+      BricksAndPropsSpriteSheet_42: -1170726747228424565
+      BricksAndPropsSpriteSheet_43: -8624802737512206717
+      BricksAndPropsSpriteSheet_44: -1844745076693793666
+      BricksAndPropsSpriteSheet_45: 1052877171079121781
+      BricksAndPropsSpriteSheet_46: -2555930643920284877
+      BricksAndPropsSpriteSheet_47: -3055190712919408759
+      BricksAndPropsSpriteSheet_48: 113725754733229991
+      BricksAndPropsSpriteSheet_49: 4580240669276030676
+      BricksAndPropsSpriteSheet_5: 3394500837455316630
+      BricksAndPropsSpriteSheet_50: 3370677028468284701
+      BricksAndPropsSpriteSheet_51: 2643438956104136725
+      BricksAndPropsSpriteSheet_52: 7286962824119759727
+      BricksAndPropsSpriteSheet_53: 3189687780392348271
+      BricksAndPropsSpriteSheet_54: 6291725588097434925
+      BricksAndPropsSpriteSheet_55: 6609485970404528622
+      BricksAndPropsSpriteSheet_56: 1610612079830829962
+      BricksAndPropsSpriteSheet_57: 2295435304997060774
+      BricksAndPropsSpriteSheet_58: 569671920638916744
+      BricksAndPropsSpriteSheet_59: 6465938156535818256
+      BricksAndPropsSpriteSheet_6: -6616218390782546385
+      BricksAndPropsSpriteSheet_60: 8557381658122862884
+      BricksAndPropsSpriteSheet_61: 4673669263458797345
+      BricksAndPropsSpriteSheet_62: -5508128757917275304
+      BricksAndPropsSpriteSheet_63: -73763908268251309
+      BricksAndPropsSpriteSheet_64: 7804814031246492352
+      BricksAndPropsSpriteSheet_65: -8506644138272817473
+      BricksAndPropsSpriteSheet_66: 4170761669643868769
+      BricksAndPropsSpriteSheet_67: -261467728370740000
+      BricksAndPropsSpriteSheet_68: 708233858282350715
+      BricksAndPropsSpriteSheet_69: 7669105227646050454
+      BricksAndPropsSpriteSheet_7: 6931096294881935528
+      BricksAndPropsSpriteSheet_70: -155109761342885345
+      BricksAndPropsSpriteSheet_71: -3663957408045182328
+      BricksAndPropsSpriteSheet_72: -8162127855659845109
+      BricksAndPropsSpriteSheet_73: 4811968428093124844
+      BricksAndPropsSpriteSheet_74: 4584139269171992144
+      BricksAndPropsSpriteSheet_75: -3997310960863474275
+      BricksAndPropsSpriteSheet_76: 4485675768814384649
+      BricksAndPropsSpriteSheet_77: 4743936316907845089
+      BricksAndPropsSpriteSheet_78: -2556390042553201098
+      BricksAndPropsSpriteSheet_79: 2797548856531589960
+      BricksAndPropsSpriteSheet_8: 7537410972839253034
+      BricksAndPropsSpriteSheet_80: 8256893690881091473
+      BricksAndPropsSpriteSheet_81: 9028944110163331902
+      BricksAndPropsSpriteSheet_82: 6055887367454218133
+      BricksAndPropsSpriteSheet_83: -2556464513764202290
+      BricksAndPropsSpriteSheet_84: -4663070155623469170
+      BricksAndPropsSpriteSheet_85: -6621248125050803548
+      BricksAndPropsSpriteSheet_86: 3187084419815349677
+      BricksAndPropsSpriteSheet_87: -6251724608614525886
+      BricksAndPropsSpriteSheet_88: 4609929281777039059
+      BricksAndPropsSpriteSheet_89: -6983519379120715091
+      BricksAndPropsSpriteSheet_9: -3083036331613092565
+      BricksAndPropsSpriteSheet_90: -19295696899907897
+      BricksAndPropsSpriteSheet_91: 4457582003345885741
+      BricksAndPropsSpriteSheet_92: -7003790560139909850
+      BricksAndPropsSpriteSheet_93: -8477236317978849399
+      BricksAndPropsSpriteSheet_94: 5280140321420363994
+      BricksAndPropsSpriteSheet_95: 6017839456179122525
+      BricksAndPropsSpriteSheet_96: -4554188218513605389
+      BricksAndPropsSpriteSheet_97: -8554350463719212788
+      BricksAndPropsSpriteSheet_98: -8351440635219184417
+      BricksAndPropsSpriteSheet_99: -4734221014256459365
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

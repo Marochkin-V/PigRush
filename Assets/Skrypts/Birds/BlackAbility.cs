@@ -4,11 +4,8 @@ using UnityEngine;
 using static UnityEngine.GraphicsBuffer;
 using static UnityEngine.Rendering.HableCurve;
 
-public class BlackAbility : MonoBehaviour
+public class BlackAbility : BirdAbility
 {
-    [SerializeField] private Rigidbody2D rb;
-    [SerializeField] private BirdStates birdState;
-
     [SerializeField] private bool isAvailable;
 
     [Header("Exploison")]
@@ -19,11 +16,6 @@ public class BlackAbility : MonoBehaviour
     [SerializeField] private float damageInCenter;
     private enum Mode { simple, adaptive }
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        birdState = GetComponent<BirdStates>();
-    }
 
     // Update is called once per frame
     void Update()
@@ -36,8 +28,9 @@ public class BlackAbility : MonoBehaviour
         }
     }
 
-    private void Activate()
+    protected override void Activate()
     {
+        base.Activate();
         Debug.Log("Ability activated");
         Explosion2D(transform.position);
     }
@@ -61,9 +54,11 @@ public class BlackAbility : MonoBehaviour
                     hit.attachedRigidbody.AddForce(direction.normalized * power);
                 }
 
-                if (hit.gameObject.CompareTag("Brick"))
+                if (hit.gameObject.layer == 6)
                 {
-                    hit.gameObject.GetComponent<BrickBreak>()?.Damage(Mathf.Lerp(damageInCenter, damageInCenter / 2, Vector2.Distance(transform.position, hit.transform.position)));
+                    BreakableObject bb;
+                    if(hit.gameObject.TryGetComponent<BreakableObject>(out bb))
+                        bb.Damage(damageInCenter * (1 - Vector2.Distance(transform.position, hit.transform.position) / radius));
                 }
             }
         }

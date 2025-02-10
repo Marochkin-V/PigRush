@@ -4,33 +4,33 @@ using UnityEngine.InputSystem;
 
 public class LaunchBird : MonoBehaviour
 {
-
-    [SerializeField] private GameObject joint;
-    [SerializeField] private Rigidbody2D rb;
-    [SerializeField] private ParticleSystem puffEf;
+    [Header("States")]
     [SerializeField] private BirdStates birdState;
 
+    [Header("Launch Settings")]
+    [SerializeField] private GameObject joint;
+    [SerializeField] private Rigidbody2D rb;
     [SerializeField] private float maxDistance;
     [SerializeField] private float maxForce;
     [SerializeField] private float mass;
 
+    [Header("LifeTime & Puf")]
+    [SerializeField] private ParticleSystem puffEf;
     [SerializeField] private float timeToLive = 5f;
     private float timer;
 
     private Vector2 mousePosition;
 
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
-        joint = GameObject.Find("Joint");
         birdState = GetComponent<BirdStates>();
+
+        joint = GameObject.Find("Joint");
+        rb = GetComponent<Rigidbody2D>();
 
         timer = timeToLive;
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (!birdState.isLaunched)
@@ -41,7 +41,8 @@ public class LaunchBird : MonoBehaviour
 
             Stretch();
         }
-        else
+        
+        if(birdState.isCrashed)
         {
             timer -= Time.deltaTime;
         }
@@ -63,15 +64,14 @@ public class LaunchBird : MonoBehaviour
             {
                 if (birdState.inLauncher)
                 {
-                    Debug.Log("I'm Touched!");
                     birdState.isTouched = true;
                 }
                 else
                 {
-                    if (!LoadCheck.isLoaded)
+                    if (!Slingshot.isLoaded)
                     {
                         birdState.isReady = true;
-                        LoadCheck.isLoaded = true;
+                        Slingshot.isLoaded = true;
                     }
                 }
             }
@@ -83,7 +83,7 @@ public class LaunchBird : MonoBehaviour
                 Fire();
                 birdState.isLaunched = true;
                 birdState.isTouched = false;
-                LoadCheck.isLoaded = false;
+                Slingshot.isLoaded = false;
             }
         }
     }
@@ -123,7 +123,7 @@ public class LaunchBird : MonoBehaviour
 
         rb.bodyType = RigidbodyType2D.Dynamic;
         rb.mass = mass;
-        rb.AddForce(strangth * direction, ForceMode2D.Force);
+        rb.AddForce(strangth * direction * mass, ForceMode2D.Force);
     }
 
     public void Puf()
@@ -132,21 +132,8 @@ public class LaunchBird : MonoBehaviour
         Destroy(gameObject);
     }
 
-    //private void OnCollisionEnter2D(Collision2D collision)
-    //{
-    //    foreach (ContactPoint2D contact in collision.contacts)
-    //    {
-    //        BrickBreak brick = collision.gameObject.GetComponent<BrickBreak>();
-    //        if (brick != null)
-    //        {
-    //            float remainingDurability = brick.GetDurability();
-    //            float impactForce = contact.normalImpulse * GlobalValues.BirdHitMultiplier;
-
-    //            if (remainingDurability < 0)
-    //            {
-    //                rb.linearVelocity *= 1;
-    //            }
-    //        }
-    //    }
-    //}
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (birdState.isLaunched) birdState.isCrashed = true;
+    }
 }

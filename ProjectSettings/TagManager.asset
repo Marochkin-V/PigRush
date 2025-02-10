@@ -6,6 +6,13 @@ TagManager:
   tags:
   - Bird
   - Brick
+  - Wood
+  - Glass
+  - Stone
+  - Black
+  - Blue
+  - Yellow
+  - Red
   layers:
   - Default
   - TransparentFX
@@ -13,8 +20,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Bricks
+  - Birds
   - 
   - 
   - 
