@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 52710410406542160}
   - component: {fileID: 4164145496734062731}
-  - component: {fileID: 2242517814618053402}
   - component: {fileID: 5173108352924364497}
   - component: {fileID: 7449243230426010429}
   - component: {fileID: 56933211608493466}
@@ -45,24 +44,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 8705786494700078443}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2402491487ed7a944a6cdd5cd4a54d8d, type: 3}
+  m_Script: {fileID: 11500000, guid: 20aebb58c5819cb42aa2967e62df5e47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &2242517814618053402
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8705786494700078443}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2d1ef4a31f68ad24395ee399f586a662, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  pigPool: {fileID: 0}
-  birdPool: {fileID: 0}
-  levelEndHandler: {fileID: 5173108352924364497}
 --- !u!114 &5173108352924364497
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -72,7 +56,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 8705786494700078443}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 16ca0bb92274d1c49a8cff2b812c9ae1, type: 3}
+  m_Script: {fileID: 11500000, guid: da3f44206229fac4aa07b74c6f6e61ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &7449243230426010429
@@ -84,9 +68,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 8705786494700078443}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2a854ddfdcc94ba43bdcc70c8ff227ea, type: 3}
+  m_Script: {fileID: 11500000, guid: 440d23c3a25142f40b495dbe7873f9b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  EndLevelPanel: {fileID: 0}
 --- !u!114 &56933211608493466
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -96,6 +81,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 8705786494700078443}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3c87f177fe404cf4fbcc8e9322aed8a2, type: 3}
+  m_Script: {fileID: 11500000, guid: 83d07fe505f57d64bb1e9713bbddc730, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

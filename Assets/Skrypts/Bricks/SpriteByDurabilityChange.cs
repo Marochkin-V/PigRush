@@ -24,6 +24,7 @@ public class SpriteByDurabilityChange : MonoBehaviour
         {
             float durability = bb.Durability;
             int currentSpriteIndex = (int)Mathf.Floor(Mathf.Clamp(bb.MaxDurability - durability, 0.0f, bb.MaxDurability) / step);
+            currentSpriteIndex = Mathf.Clamp(currentSpriteIndex, 0, sprites.Count - 1);
             spriteRenderer.sprite = sprites[currentSpriteIndex];
         }
     }

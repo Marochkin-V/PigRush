@@ -9,6 +9,7 @@ public class BlackAbility : BirdAbility
     [SerializeField] private bool isAvailable;
 
     [Header("Exploison")]
+    [SerializeField] private Explosion2D exp;
     [SerializeField] private Mode mode;
     [SerializeField] private float radius;
     [SerializeField] private float power;
@@ -16,6 +17,10 @@ public class BlackAbility : BirdAbility
     [SerializeField] private float damageInCenter;
     private enum Mode { simple, adaptive }
 
+    private void Start()
+    {
+        exp = GetComponent<Explosion2D>();
+    }
 
     // Update is called once per frame
     void Update()
@@ -32,50 +37,51 @@ public class BlackAbility : BirdAbility
     {
         base.Activate();
         Debug.Log("Ability activated");
-        Explosion2D(transform.position);
+        exp.Detonate(transform.position, radius, power, layerMask, damageInCenter);
+        //Explosion2D(transform.position);
     }
 
     // Exploison
 
-    void Explosion2D(Vector3 position)
-    {
-        Collider2D[] colliders = Physics2D.OverlapCircleAll(position, radius, layerMask);
-        Debug.Log(colliders.Length);
+    //void Explosion2D(Vector3 position)
+    //{
+    //    Collider2D[] colliders = Physics2D.OverlapCircleAll(position, radius, layerMask);
+    //    Debug.Log(colliders.Length);
 
-        foreach (Collider2D hit in colliders)
-        {
-            if (hit.attachedRigidbody != null)
-            {
-                Vector3 direction = hit.transform.position - position;
-                direction.z = 0;
+    //    foreach (Collider2D hit in colliders)
+    //    {
+    //        if (hit.attachedRigidbody != null)
+    //        {
+    //            Vector3 direction = hit.transform.position - position;
+    //            direction.z = 0;
 
-                if (CanUse(position, hit.attachedRigidbody))
-                {
-                    hit.attachedRigidbody.AddForce(direction.normalized * power);
-                }
+    //            if (CanUse(position, hit.attachedRigidbody))
+    //            {
+    //                hit.attachedRigidbody.AddForce(direction.normalized * power);
+    //            }
 
-                if (hit.gameObject.layer == 6)
-                {
-                    BreakableObject bb;
-                    if(hit.gameObject.TryGetComponent<BreakableObject>(out bb))
-                        bb.Damage(damageInCenter * (1 - Vector2.Distance(transform.position, hit.transform.position) / radius));
-                }
-            }
-        }
-    }
+    //            if (hit.gameObject.layer == 6)
+    //            {
+    //                BreakableObject bb;
+    //                if(hit.gameObject.TryGetComponent<BreakableObject>(out bb))
+    //                    bb.Damage(damageInCenter * (1 - Vector2.Distance(transform.position, hit.transform.position) / radius));
+    //            }
+    //        }
+    //    }
+    //}
 
-    bool CanUse(Vector3 position, Rigidbody2D body)
-    {
-        if (mode == Mode.simple) return true;
+    //bool CanUse(Vector3 position, Rigidbody2D body)
+    //{
+    //    if (mode == Mode.simple) return true;
 
-        RaycastHit2D hit = Physics2D.Linecast(position, body.position);
+    //    RaycastHit2D hit = Physics2D.Linecast(position, body.position);
 
-        if (hit.rigidbody != null && hit.rigidbody == body)
-        {
-            return true;
-        }
-        return false;
-    }
+    //    if (hit.rigidbody != null && hit.rigidbody == body)
+    //    {
+    //        return true;
+    //    }
+    //    return false;
+    //}
 
     private void OnDrawGizmos()
     {

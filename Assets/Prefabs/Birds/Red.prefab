@@ -15,6 +15,10 @@ GameObject:
   - component: {fileID: 1774574069710888237}
   - component: {fileID: 7191700652751022359}
   - component: {fileID: 865519889841549623}
+  - component: {fileID: 4280628958925511493}
+  - component: {fileID: 837064339797063451}
+  - component: {fileID: 1481311825660559273}
+  - component: {fileID: 4099840568897110489}
   m_Layer: 7
   m_Name: Red
   m_TagString: Red
@@ -139,6 +143,8 @@ MonoBehaviour:
   mass: 10
   puffEf: {fileID: 460782382662323428, guid: 1a53ec009af2072418b0c5f18faf5525, type: 3}
   timeToLive: 8
+  sfxBird: {fileID: 4099840568897110489}
+  sfxSlingshot: {fileID: 1481311825660559273}
 --- !u!114 &1774574069710888237
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -211,3 +217,147 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0.035, y: -0.03}
   m_Radius: 0.2
+--- !u!114 &4280628958925511493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6100895570510508928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aa43040fc864e34b8abe5c38152d2c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  touchEff: {fileID: 1716245799492314879, guid: 3d3a9ba7add652548928e41dfca0929b, type: 3}
+--- !u!82 &837064339797063451
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6100895570510508928}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 0.1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &1481311825660559273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6100895570510508928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 933b155681a9b3345b53fd6184f23975, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioSource: {fileID: 837064339797063451}
+  stretch: {fileID: 8300000, guid: 0fdd478d8766ffe4f86c5d4e0fa78132, type: 3}
+  fire: {fileID: 8300000, guid: 21b162a2be8153c4f8907b04c2c77130, type: 3}
+--- !u!114 &4099840568897110489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6100895570510508928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12bcf4a1af049bd439b45cced6890437, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioSource: {fileID: 837064339797063451}
+  launch: {fileID: 8300000, guid: cd4a6ef855170c8438ace36e369dd0f4, type: 3}
+  voice: {fileID: 8300000, guid: 322b96d3fac0ec64aade71ee1a1a37c6, type: 3}
+  crash:
+  - {fileID: 8300000, guid: 2652fbd6bd3d33a4086cf2426ac1fa14, type: 3}
+  - {fileID: 8300000, guid: 5c80996f55f1e3f449cdc6ea3e78e62d, type: 3}
+  - {fileID: 8300000, guid: d1f7ffffdf078fa41980bd35e2b6bb94, type: 3}

@@ -1,6 +1,4 @@
-using System.Runtime.CompilerServices;
 using UnityEngine;
-using UnityEngine.InputSystem;
 
 public class LaunchBird : MonoBehaviour
 {
@@ -19,6 +17,10 @@ public class LaunchBird : MonoBehaviour
     [SerializeField] private float timeToLive = 5f;
     private float timer;
 
+    [Header("Audio")]
+    [SerializeField] private BirdAudioControl sfxBird;
+    [SerializeField] private AudioSlingshot sfxSlingshot;
+
     private Vector2 mousePosition;
 
     void Start()
@@ -27,6 +29,9 @@ public class LaunchBird : MonoBehaviour
 
         joint = GameObject.Find("Joint");
         rb = GetComponent<Rigidbody2D>();
+
+        sfxBird = GetComponent<BirdAudioControl>();
+        sfxSlingshot = GetComponent<AudioSlingshot>();
 
         timer = timeToLive;
     }
@@ -41,8 +46,8 @@ public class LaunchBird : MonoBehaviour
 
             Stretch();
         }
-        
-        if(birdState.isCrashed)
+
+        if (birdState.isCrashed)
         {
             timer -= Time.deltaTime;
         }
@@ -64,14 +69,14 @@ public class LaunchBird : MonoBehaviour
             {
                 if (birdState.inLauncher)
                 {
+                    sfxSlingshot.audioSource.PlayOneShot(sfxSlingshot.stretch);
                     birdState.isTouched = true;
                 }
-                else
+                else if (GlobalValues.CanTouchBirds)
                 {
                     if (!Slingshot.isLoaded)
                     {
                         birdState.isReady = true;
-                        Slingshot.isLoaded = true;
                     }
                 }
             }
@@ -90,18 +95,21 @@ public class LaunchBird : MonoBehaviour
 
     private void GetReady()
     {
-        if (birdState.isReady)
+        if (birdState.isReady && !birdState.inLauncher)
         {
+            sfxBird.audioSource.PlayOneShot(sfxBird.voice);
+
             transform.position = joint.transform.position;
-            birdState.isReady = false;
             birdState.inLauncher = true;
+            Slingshot.isLoaded = true;
         }
     }
 
     private void Stretch()
     {
         if (birdState.isTouched && birdState.inLauncher)
-        {
+        {   
+
             mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 
             if (Vector2.Distance((Vector2)mousePosition, (Vector2)joint.transform.position) < maxDistance)
@@ -118,6 +126,10 @@ public class LaunchBird : MonoBehaviour
 
     private void Fire()
     {
+        // Audio
+        sfxBird.audioSource.PlayOneShot(sfxBird.launch);
+        sfxSlingshot.audioSource.PlayOneShot(sfxSlingshot.fire);
+
         float strangth = Vector2.Distance((Vector2)transform.position, (Vector2)joint.transform.position) / maxDistance * maxForce;
         Vector2 direction = (joint.transform.position - transform.position).normalized;
 
@@ -129,11 +141,15 @@ public class LaunchBird : MonoBehaviour
     public void Puf()
     {
         Instantiate(puffEf, transform.position, Quaternion.identity);
-        Destroy(gameObject);
+        gameObject.SetActive(false);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (birdState.isLaunched) birdState.isCrashed = true;
+        if (birdState.isLaunched)
+        {
+            birdState.isCrashed = true;
+            sfxBird.audioSource.PlayOneShot(sfxBird.crash[Random.Range(0, sfxBird.crash.Length)]);
+        }
     }
 }

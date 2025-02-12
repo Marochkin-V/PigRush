@@ -48,6 +48,26 @@ PrefabInstance:
       propertyPath: 'sprites.Array.data[7]'
       value: 
       objectReference: {fileID: 3586241607046018390, guid: 73d8d90a8b55da24b919c0ab62024f7e, type: 3}
+    - target: {fileID: 1212172729088693845, guid: b463730a7e132c449a1e31966ac2b018, type: 3}
+      propertyPath: crash.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1212172729088693845, guid: b463730a7e132c449a1e31966ac2b018, type: 3}
+      propertyPath: 'crash.Array.data[0]'
+      value: 
+      objectReference: {fileID: 8300000, guid: 5f64b9aefe034d245b977f8a1264785f, type: 3}
+    - target: {fileID: 1212172729088693845, guid: b463730a7e132c449a1e31966ac2b018, type: 3}
+      propertyPath: 'crash.Array.data[1]'
+      value: 
+      objectReference: {fileID: 8300000, guid: e501fb40001239d498643c2fabce4be7, type: 3}
+    - target: {fileID: 1212172729088693845, guid: b463730a7e132c449a1e31966ac2b018, type: 3}
+      propertyPath: 'crash.Array.data[2]'
+      value: 
+      objectReference: {fileID: 8300000, guid: a1db68d8b74004f4683a891fdec7c326, type: 3}
+    - target: {fileID: 1212172729088693845, guid: b463730a7e132c449a1e31966ac2b018, type: 3}
+      propertyPath: 'crash.Array.data[3]'
+      value: 
+      objectReference: {fileID: 8300000, guid: 440eaf23fcdfe3449927138455c3b77a, type: 3}
     - target: {fileID: 2020062195068957305, guid: b463730a7e132c449a1e31966ac2b018, type: 3}
       propertyPath: m_Layer
       value: 6
