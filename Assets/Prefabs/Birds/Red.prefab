@@ -138,8 +138,8 @@ MonoBehaviour:
   birdState: {fileID: 7191700652751022359}
   joint: {fileID: 0}
   rb: {fileID: 1829535206030401903}
-  maxDistance: 0.5
-  maxForce: 400
+  maxDistance: 0.6
+  maxForce: 450
   mass: 10
   puffEf: {fileID: 460782382662323428, guid: 1a53ec009af2072418b0c5f18faf5525, type: 3}
   timeToLive: 8

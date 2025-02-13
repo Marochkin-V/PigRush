@@ -285,6 +285,9 @@ MonoBehaviour:
   audioSource: {fileID: 5677903019533368479}
   click: {fileID: 8300000, guid: cfeaf65d669417d4e8dabce3d63bae21, type: 3}
   hover: {fileID: 8300000, guid: 06f298adfe3533a4f8357f99222053a4, type: 3}
+  pigsWin: {fileID: 8300000, guid: fd942ba0c69f0a94f8fb72933850c9bf, type: 3}
+  birdsWin: {fileID: 8300000, guid: b240e98731baac74182eacee1884d9db, type: 3}
+  levelStart: {fileID: 0}
 --- !u!82 &5677903019533368479
 AudioSource:
   m_ObjectHideFlags: 0
@@ -295,8 +298,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: fe7f3c0ffd106f442a24e0abb1cc1b42, type: 3}
+  m_Resource: {fileID: 8300000, guid: fe7f3c0ffd106f442a24e0abb1cc1b42, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -1859,34 +1862,10 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 6381296168889426975}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 7160875685745295746}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
-      - m_Target: {fileID: 7160875685745295746}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
+      - m_Target: {fileID: 2259177932872694014}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: Restart
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -2456,10 +2435,10 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 8611851847170619917}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
+      - m_Target: {fileID: 2259177932872694014}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: Restart
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -3354,6 +3333,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   BirdsWinElements: {fileID: 6851917931784715889}
   PigsWinElements: {fileID: 7548836170046625976}
+  sfx: {fileID: 109070493972672278}
 --- !u!1 &8936513472098531312
 GameObject:
   m_ObjectHideFlags: 0
